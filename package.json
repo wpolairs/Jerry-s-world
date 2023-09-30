@@ -2,6 +2,7 @@
   "name": "jerry-blog",
   "version": "3.0.0",
   "private": false,
+  "node": "18.17.0",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
