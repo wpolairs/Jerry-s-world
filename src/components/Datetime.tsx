@@ -1,3 +1,4 @@
+import React from "react";
 import { LOCALE } from "@config";
 
 export interface Props {
