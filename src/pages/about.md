@@ -3,12 +3,13 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+Welcome here, this is my personal **blog website**.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+I'm WangJian, english name is Jerry. As a front-end developer, I have a strong interest and passion for web design and development. I enjoy creating beautiful, efficient, and user-friendly websites through code, and constantly learning and mastering new skills and tools.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+My personal blog website is a platform for me to showcase my work and share technical knowledge. In my blog, you can see the projects I have done, my technical articles, and personal experience sharing. Through my blog, you can learn about my technical level and passion for front-end development.
+
+I love front-end development and hope to continue to grow and improve in this field. If you have any questions about front-end development or want to learn more about my experience and skills, please feel free to **contact me** at any time.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
@@ -16,21 +17,19 @@ This theme is self-documented \_ which means articles/posts in this theme can al
 
 ## Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+[React](https://react.dev/) | [Next.js](https://nextjs.org/) | [TypeScript](https://www.typescriptlang.org/) | [TailWindCSS](https://tailwindcss.com/) | [Apollo-client](https://www.apollographql.com/docs/react) | [Graphql](https://graphql.org/)
 
-## Features
+## Experienced Company
 
-Here are certain features of this site.
+- [**Tripalink**](https://tripalink.com/)
+- [**Tuya-Smart**](https://www.tuya.com/)
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+## Contact
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- **WeiXin**: 15202620447
+- **Email**: wpolairs@gmail.com
+- **Github**: https://github.com/wpolairs
+- **Link**: [linkedin](https://www.linkedin.com/in/jian-wang-856934238/)
+
+if you can even give any feedback via my [email](wpolairs@gmail.com).  
+Or you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).
