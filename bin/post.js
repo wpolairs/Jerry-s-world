@@ -3,8 +3,8 @@
 import { program } from "commander"
 import create from './create.js'
 
-program.command("create <blog-name>")
-  .description("create a new blog")
+program.command("create <post-name>")
+  .description("create a new post")
   .option("-f, --force", "overwrite target directory if it exists")
   .action((pn, option) => {
     create(pn, option)

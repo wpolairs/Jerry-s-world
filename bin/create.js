@@ -11,7 +11,7 @@ const blogBaseInfo = {
   postSlug: "",
   featured: true,
   draft: false,
-  tags: ['Docs', 'Git', 'ReactJS'],
+  tags: [],
   description: ""
 }
 
@@ -20,7 +20,6 @@ const create = async (projectName, options) => {
   const fileName = `${projectName}.md`
   const dir = path.join(cwd, 'src/content/blog')
   const targetPath = path.join(dir, fileName)
-  console.log(new Date())
 
   if (fs.existsSync(targetPath)) {
     if (options.force) {
